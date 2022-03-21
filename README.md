@@ -18,7 +18,7 @@
 
 9. A los elementos con id "segundo" le alineas el texto a la izquierda, (background-color: rgba(0, 0, 0, 0.164); y un border-radius de 5px y un padding de 1%.
 
-10. A los elementos con class "img2" le añadimos un ancho del 100% y relleno de 20% a los dos lados. 
+10. A los elementos con id "img2" le añadimos un ancho del 100% y relleno de 20% a los dos lados. 
 
 11. Después del h4 de "Cómo se utiliza CSS" añade un iframe de este vídeo de youtube https://www.youtube.com/watch?v=24gNhTcy6pw , le tendrás que eliminar los estilos en línea de width y height. También le tendrás que poner en el título "Cómo utilizar CSS".
 
